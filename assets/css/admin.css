@@ -1,0 +1,30 @@
+.wmhp_metabox_table{
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.wmhp_metabox_table tr th {
+	width: 25%;
+	vertical-align: top !important;
+	text-align: left;
+	padding: 15px;
+}
+
+.wmhp_metabox_table tr td {
+	width: 75%;
+	vertical-align: top;
+	text-align: left;
+	padding: 15px;
+}
+
+.wmhp_metabox_table td .select2{
+	width: 55% !important;
+}
+
+.wmhp_metabox_table input[type=text],
+.wmhp_metabox_table input[type=date],
+.wmhp_metabox_table input[type=email],
+.wmhp_metabox_table input[type=select]{
+	width: 55%;
+	height: 45px;
+}

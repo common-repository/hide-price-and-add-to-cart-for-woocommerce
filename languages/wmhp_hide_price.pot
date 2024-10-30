@@ -1,0 +1,225 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce hide price and add to cart(Lite)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-25 14:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.1\n"
+"X-Domain: wmhp_hide_price"
+
+#: includes/class-wmhp-hide-price.php:145
+msgid "A link to a Rule."
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:124
+msgid "Add New"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:125
+msgid "Add new Rule"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:123
+msgctxt "Admin menu name"
+msgid "Hide Price Rules"
+msgstr ""
+
+#: includes/admin/meta-boxes/products.php:27
+msgid "All products"
+msgstr ""
+
+#: includes/admin/meta-boxes/hide-price.php:76
+msgid "Custom link"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:126
+msgid "Edit"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:127
+msgid "Edit Rule"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:141
+msgid "Filter Rules"
+msgstr ""
+
+#: includes/admin/meta-boxes/user-roles.php:54
+msgid "Guest"
+msgstr ""
+
+#: includes/admin/meta-boxes/hide-price.php:45
+msgid "Hide Add to cart?"
+msgstr ""
+
+#: includes/class-wmhp-admin.php:145
+msgid "Hide price & Add to cart"
+msgstr ""
+
+#. Description of the plugin
+msgid "Hide price and add to cart for user roles."
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:121
+msgid "Hide Price Rule"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:120
+#: includes/class-wmhp-hide-price.php:122
+msgid "Hide Price Rules"
+msgstr ""
+
+#: includes/admin/meta-boxes/hide-price.php:27
+msgid "Hide Price?"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://woocommerce.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://woomanagers.com"
+msgstr ""
+
+#: includes/admin/meta-boxes/user-roles.php:47
+msgid "Include user roles"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:139
+msgid "Insert into Rule"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:128
+msgid "New Rule"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:132
+msgid "No Rules found"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:133
+msgid "No Rules found in trash"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:134
+msgid "Parent Rule"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:67
+msgid ""
+"plugin is currently deactivated. The WooCommerce plugin is required for this "
+"particular plugin to function"
+msgstr ""
+
+#: includes/class-wmhp-admin.php:170
+msgid "Products & Taxanomies"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:137
+msgid "Remove Rule image"
+msgstr ""
+
+#: includes/admin/meta-boxes/hide-price.php:54
+msgid "Replace add to cart options"
+msgstr ""
+
+#: includes/admin/meta-boxes/hide-price.php:36
+msgid "Replace text with price"
+msgstr ""
+
+#: includes/admin/meta-boxes/hide-price.php:61
+msgid "Replace with custom link button"
+msgstr ""
+
+#: includes/admin/meta-boxes/hide-price.php:58
+msgid "Replace with Text"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:135
+msgid "Rule image"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:144
+msgid "Rule Link"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:143
+msgid "Rules list"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:142
+msgid "Rules navigation"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:131
+msgid "Search Rules"
+msgstr ""
+
+#: includes/admin/meta-boxes/products.php:58
+msgid "Select Categories"
+msgstr ""
+
+#: includes/admin/meta-boxes/products.php:36
+msgid "Select Products"
+msgstr ""
+
+#: includes/admin/meta-boxes/products.php:78
+msgid "Select Tags"
+msgstr ""
+
+#: includes/admin/meta-boxes/user-roles.php:24
+msgid "Select User(s)"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:136
+msgid "Set Rule image"
+msgstr ""
+
+#: includes/admin/meta-boxes/hide-price.php:67
+msgid "Text/Button Text"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:147
+msgid "This is where you can add hide price rules in this store."
+msgstr ""
+
+#: includes/class-wmhp-ajax.php:34 includes/class-wmhp-ajax.php:71
+msgid "Unauthorized access."
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:140
+msgid "Uploaded to this Rule"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:138
+msgid "Use as Rule image"
+msgstr ""
+
+#: includes/class-wmhp-admin.php:157
+msgid "Users & Roles"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:129
+msgid "View Rule"
+msgstr ""
+
+#: includes/class-wmhp-hide-price.php:130
+msgid "View Rules"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce hide price and add to cart(Lite)"
+msgstr ""
+
+#. Author of the plugin
+msgid "WooManagers"
+msgstr ""
